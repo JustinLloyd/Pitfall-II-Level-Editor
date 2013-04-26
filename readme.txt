@@ -1,13 +1,11 @@
-Pitfall II Level Editor
-=======================
+* Welcome
+Thanks for downloading this Pitfall II Level Editor
 
-Thanks for your interest in the Pitfall II Level Editor. This project is now
-hosted on https://bitbucket.org/JustinLloyd/pitfall-ii-level-editor
+Visit https://bitbucket.org/JustinLloyd/pitfall-ii-level-editor/overview for 
+more information and to download the latest version.
 
 
-
-License
-=======
+* License
                       DO WHATEVER PUBLIC LICENSE*
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -22,8 +20,7 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-=====
+* About
 In early 1999 I started work on an Atari 2600 Action Pack for the Gameboy Color
 which was to include H.E.R.O., Pitfall I & II, plus a bunch of other classic
 games. There was also to be an updated Pitfall II game with lots of extended
@@ -32,13 +29,11 @@ early version of the level editor that was developed to enable creation of the
 new levels. It doesn't have all of the features in it that a later version
 did and I am still trying to locate that in my archives.
 
-Pre-requisites
-==============
+* Pre-requisites
 1. VisualBASIC 6
 
 
-Support
-=======
+* Support
 Absolutely none provided.
 
 
